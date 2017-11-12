@@ -1,2 +1,2 @@
 # Neural-Networks-and-Deep-Learning
-This repository include study materials from Andrew's course `Deep Learning` on Cousera.
+This repository include study materials from Andrew's `Deep Learning` course on Cousera.
